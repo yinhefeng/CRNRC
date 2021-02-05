@@ -1,13 +1,9 @@
 # CRNRC
 Class-specific residual constraint nonnegative representation based classifier<br>
 <br>
-These codes are for the following paper which is under consideration by Journal of Electronic Imaging,<br>
+These codes are for the following paper which is published by Journal of Electronic Imaging,<br>
 <br>
-He-Feng Yin, Xiao-Jun Wu. Class-specific residual constraint non-negative representation for pattern classification. arXiv preprint arXiv:1911.09953, 2019.<br>
-<br>
-The link is,
-<br>
-https://arxiv.org/abs/1911.09953<br>
+He-Feng Yin, Xiao-Jun Wu. Class-specific residual constraint non-negative representation for pattern classification[J]. Journal of Electronic Imaging, 2020, 29(2): 023014.<br>
 <br>
 Just run demo_AR.m and you will obtain the following result,<br>
 <br>
